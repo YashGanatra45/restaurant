@@ -75,3 +75,7 @@ Feel free to fork this repo and submit a pull request.
 📄 License
 
 This project is open-source and free to use.
+
+👨‍💻 Author
+
+Yash Ganatra
